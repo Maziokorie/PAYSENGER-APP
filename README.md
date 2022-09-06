@@ -1,4 +1,4 @@
-# PAYSENGER-APP
+U# PAYSENGER-APP
 WHAT YOU NEED TO KNOW ABOUT THE PAYSENGER APP
 1. Basic functionality: What exactly is the Paysenger app designed to do?
 The Paysenger app is designed to serve as a platform in which millions of internet users and fans who want to get in touch with their favorite celebrities, influencers or specialists can do so in a seamless manner. It is also designed to allow a user co-create content in collaboration with others while also opening up novel advertising opportunities for companies. The straightforwardness of Paysenger's communication solution aims to democratize blockchain technology and increase access to it for more people.
@@ -17,9 +17,9 @@ The design of the app is visually appealing. The main colours used in the design
 
 6. How to Communicate Using the Paysenger App
 There are 3 ways to communicate using the Paysenger app:
-1. Text message - ask your question in text format and get an answer in messenger.
-2. Audio message - record a voice message and you’ll get an answer with your voice.
-3. Video message - record a video question or request, then you’ll get a video postcard with an answer.
+ (A) Text message - ask your question in text format and get an answer in messenger.
+(B) Audio message - record a voice message and you’ll get an answer with your voice.
+(C) Video message - record a video question or request, then you’ll get a video postcard with an answer.
 
 7. Data Safety on the Paysenger App
 •	The Paysenger app may share these data types with third parties:  App activity (App interactions, Other user-generated content, and Other actions); App info and performance(Crash logs, Diagnostics, and Other app performance data) 
