@@ -7,7 +7,7 @@ The Paysenger app is designed to serve as a platform in which millions of intern
 2. Audience: Who is the Paysenger app designed for? 
 The Paysenger app is designed for every internet user, a creative person, online influencers, celebrities, comedians, athletes, soccer stars, specialists in any field, companies, etc. The app can be used by anyone who is over 12 years old.
 
-3. Simplicity and ease of use: Can you figure out how to use it quickly? Can you use it in short bursts between other tasks?
+3. Simplicity and ease of use: Can you figure out how to use it quickly?
 The app is very easy to use and requires little or no training to be able to use it. The app can be used in short bursts between other tasks. 
 
 4. Playfulness: Does it delight the user? Is it fun to use?
@@ -16,8 +16,8 @@ The app has a good user experience (UX) design that makes it possible for it to 
 5. Visual design: Is it visually appealing? 
 The design of the app is visually appealing. The main colours used in the design are essentially royal purple, with texts in white and yellow colours on a deep blue background.  The choice and number of colours utilized made it possible for a good balance to be struck between unity and variety such that a dull or overwhelming design was avoided. All the design elements are properly arranged with a high resolution imagery. The logo is distinctive and eye catching and comes in the shape of a small bird with yellow, purple and pink colours. 
 
-6. How to Communicate Using the Paysenger App
-There are 3 ways to communicate using the Paysenger app:
+6. How to Communicate Using the Paysenger App.
+There are 3 ways to communicate using the Paysenger app namely:
  (A) Text message - ask your question in text format and get an answer in messenger.
 (B) Audio message - record a voice message and you’ll get an answer with your voice.
 (C) Video message - record a video question or request, then you’ll get a video postcard with an answer.
