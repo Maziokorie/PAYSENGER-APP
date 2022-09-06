@@ -1,4 +1,4 @@
-U# PAYSENGER-APP
+PAYSENGER-APP
 WHAT YOU NEED TO KNOW ABOUT THE PAYSENGER APP
 1. Basic functionality: What exactly is the Paysenger app designed to do?
 The Paysenger app is designed to serve as a platform in which millions of internet users and fans who want to get in touch with their favorite celebrities, influencers or specialists can do so in a seamless manner. It is also designed to allow a user co-create content in collaboration with others while also opening up novel advertising opportunities for companies. The straightforwardness of Paysenger's communication solution aims to democratize blockchain technology and increase access to it for more people.
